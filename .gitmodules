@@ -1,3 +1,6 @@
 [submodule "2.-Web-site"]
 	path = 2.-Web-site
 	url = https://github.com/StanislavskyK/2.-Web-site.git
+[submodule "Brend"]
+	path = Brend
+	url = https://github.com/StanislavskyK/2.-Web-site.git
